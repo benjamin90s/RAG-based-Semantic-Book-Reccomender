@@ -67,15 +67,3 @@ It enriches semantic search with **zero-shot genre classification (BART)** and *
 
 ---
 
-## 🔧 Installation
-
-```bash
-# Clone repo
-git clone https://github.com/yourusername/semantic-book-recommender.git
-cd semantic-book-recommender
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-python app.py
