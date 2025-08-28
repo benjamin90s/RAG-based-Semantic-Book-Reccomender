@@ -63,7 +63,7 @@ It enriches semantic search with **zero-shot genre classification (BART)** and *
 - Sorts by tone if selected (e.g., “Happy” → joy score)  
 - Gemini summarizes top 3 picks with short explanations  
 
-*(Add screenshot of Gradio UI here)*
+<img width="1005" height="322" alt="Screenshot 2025-08-29 at 5 23 22 AM" src="https://github.com/user-attachments/assets/126d9b87-16ec-49ea-b79f-813925641bb9" />
 
 ---
 
